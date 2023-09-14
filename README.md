@@ -1,5 +1,5 @@
 # CNN-based-autoencoder-for-fmri
-本仓库是作者处理fmri数据而编写的。
+本仓库是作者为处理fmri数据而编写的自编码器。
 
 <br>
 
